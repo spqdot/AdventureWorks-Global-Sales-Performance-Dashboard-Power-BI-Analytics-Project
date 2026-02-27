@@ -18,6 +18,8 @@ Evaluate regional and city-level sales performance
 
 Support strategic decisions with data-driven insights
 
+![image alt[https://github.com/spqdot/AdventureWorks-Global-Sales-Performance-Dashboard-Power-BI-Analytics-Project/blob/main/Slide1.JPG]]
+
 3. Dashboard Components
 A. KPI Section
 
