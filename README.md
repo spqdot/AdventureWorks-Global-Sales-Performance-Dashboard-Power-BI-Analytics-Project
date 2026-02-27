@@ -65,6 +65,7 @@ Top Selling Companies (Pie Chart)
 Revenue distribution by top customers
 
 Highlights key B2B contributors
+![image alt](https://github.com/spqdot/AdventureWorks-Global-Sales-Performance-Dashboard-Power-BI-Analytics-Project/blob/main/Slide2.JPG)
 
 E. Geographic Analysis
 
